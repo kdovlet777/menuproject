@@ -1,5 +1,5 @@
 <h1> Django Menu Project <h1> 
-This is a Django project that allows users to browse and order food items from a menu.
+<p> This is a Django project that allows users to browse menu. </p>
 
 <h3> Requirements </h3>
 The following packages are required to run this Django project:
